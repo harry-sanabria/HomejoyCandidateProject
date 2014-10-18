@@ -1,0 +1,11 @@
+README.txt
+setup.cfg
+setup.py
+descartes/__init__.py
+descartes/patch.py
+descartes/tests.py
+descartes.egg-info/PKG-INFO
+descartes.egg-info/SOURCES.txt
+descartes.egg-info/dependency_links.txt
+descartes.egg-info/not-zip-safe
+descartes.egg-info/top_level.txt
